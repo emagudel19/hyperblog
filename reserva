@@ -1,0 +1,3 @@
+feature - reservar vuelo
+given - el usuario a reservado un vuelo
+when - seleeciona el boton reserva
